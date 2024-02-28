@@ -11,7 +11,7 @@ whois = [
   "<br>",
   "- Devansh Arya is a Security Consultant",
   "<br>",
-  "- Devansh specializes in conducting Red Team Assessments & Penetration Testing for web applications, API, network, and Active Directory. In the Application Security, he worked in Vulnerability Scanning and Engineering, DAST (Qualys, Burpsuite, Invicti, Insight AppSec), SAST(Veracode) and Vulnerability Threat Intelligence.",
+  "- Devansh specializes in conducting Red Team Assessments & Penetration Testing for Web Applications, API, Network, and Active Directory. In the Application Security, he worked in Vulnerability Scanning and Engineering, DAST (Qualys, Burpsuite, Invicti, Insight AppSec), SAST(Veracode) and Vulnerability Threat Intelligence.",
   "<br>",
   "- Devansh is an active member of the ILUGD, Hack the Box and FOSS community and participates in solving new security challenges",
   "<br>"
@@ -57,7 +57,7 @@ help = [
   '<span class="command">video</span>          My Youtube Channel',
   '<span class="command">social</span>         My Social platforms',
   '<span class="command">projects</span>       My Open Source Projects',
-//  '<span class="command">blog</span>           My Medium Blog',
+//  '<span class="command">blog</span>         Medium Blog',
   '<span class="command">history</span>        You know what it is',
   '<span class="command">email</span>          My Email address',
   '<span class="command">interview</span>      Interview',
