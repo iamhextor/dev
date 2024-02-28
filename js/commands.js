@@ -42,14 +42,6 @@ interview = [
 blogs = [
   "<br",
 //  '1. Wireguard : A new tunneling protocol <a href="' + wiregaurd + '" target="_blank">medium' + "</a>", 
-//  '2. Tales of XSS: Navigating Web Vulnerabilities <a href="' + xss + '" target="_blank">medium' + "</a>", 
-//  '3. A Long Story of XXE Vulnerability!! <a href="' + xxe + '" target="_blank">medium' + "</a>", 
-//  '4. iOS Application Vulnerability Assessment and Penetration Testing. <a href="' + ios + '" target="_blank">medium' + "</a>", 
-//  '5. Android Vulnerability Assessment and Penetration Testing Part 1 <a href="' + androidp1 + '" target="_blank">medium' + "</a>", 
-//  '6. Android Vulnerability Assessment and Penetration Testing Part 2 <a href="' + androidp2 + '" target="_blank">medium' + "</a>", 
-//  '7. Bypass Blocked IP with the X-Forwarded For Header <a href="' + ipbypass + '" target="_blank">medium' + "</a>", 
-//  '8. XSS Automation using Waybackurl And gf (Grep-Finding) <a href="' + xssautomation + '" target="_blank">medium' + "</a>", 
-//  '9. Why localhost and BurpSuite are not best friends. <a href="' + burplocalhost + '" target="_blank">medium' + "</a>"
 ];
 
 secret = [
