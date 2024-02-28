@@ -53,10 +53,9 @@ secret = [
 help = [
   "<br>",
   '<span class="command">whois</span>          About Me',
-  '<span class="command">whoami</span>         Who are you ?',
-  '<span class="command">video</span>          My Youtube Channel',
-  '<span class="command">social</span>         My Social platforms',
-  '<span class="command">projects</span>       My Open Source Projects',
+  '<span class="command">whoami</span>         Who are you ?'
+  '<span class="command">social</span>         Social platforms',
+  '<span class="command">projects</span>       Projects',
 //  '<span class="command">blog</span>         Medium Blog',
   '<span class="command">history</span>        You know what it is',
   '<span class="command">email</span>          My Email address',
