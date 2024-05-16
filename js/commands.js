@@ -1,7 +1,6 @@
 // These are the variable for the direct links
 var twitter = "https://www.twitter.com/iamdevansharya";
 var linkedin = "https://www.linkedin.com/in/iamdevansharya";
-var instagram = "https://www.instagram.com/iamdevansharya";
 var github = "https://github.com/iamhextor";
 var email = 'mailto:iamdevansharya@gmail.com';
 var medium = 'https://medium.com/@iamdevansharya';
@@ -9,9 +8,9 @@ var medium = 'https://medium.com/@iamdevansharya';
 // This content is about the "WHOIS"
 whois = [
   "<br>",
-  "- Devansh Arya is a Security Consultant",
+  "- Devansh Arya is a Security Consultant.",
   "<br>",
-  "- Devansh specializes in conducting Red Team Assessments & Penetration Testing for Web Applications, API, Network, and Active Directory. In the Application Security, he worked in Vulnerability Scanning and Engineering, DAST (Qualys, Burpsuite, Invicti, Insight AppSec), SAST(Veracode) and Vulnerability Threat Intelligence.",
+  "- Devansh specializes in conducting Red Team Assessments & Penetration Testing for Web Applications, API, Network, and Active Directory. He worked in Vulnerability Scanning and Engineering, DAST (Qualys, Burpsuite, Invicti, Insight AppSec), SAST(Veracode) and Vulnerability Threat Intelligence.",
   "<br>",
   "- Devansh is an active member of the ILUGD, Hack the Box and FOSS community and participates in solving new security challenges",
   "<br>"
@@ -21,7 +20,6 @@ social = [
   "<br>",
   'twitter        <a href="' + twitter + '" target="_blank">twitter/iamdevansharya' + '</a>',
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/iamdevansharya' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/iamdevansharya' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/iamhextor' + "</a>",
   "<br>"
 ];
